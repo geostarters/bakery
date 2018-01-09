@@ -1,4 +1,5 @@
 ![alt text](https://github.com/geostarters/bakery/raw/master/data/logo.png "Logo")
+
 Bakes lighting, computed from a normal map pyramid, into a raster layer.
 
 ## Usage
