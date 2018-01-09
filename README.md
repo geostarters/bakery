@@ -16,6 +16,7 @@ The [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
 At the start of each script there are some parameters that can be changed to modify the outcome of the script
 
 These parameters are the following ones:
+
 |*Parameter*|*Description*|
 |---|---|
 |normalMapBaseURL| URL endpoint where the normal map pyramid can be found |
